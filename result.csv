@@ -1,0 +1,185 @@
+sn,Predicted Contract_Type,Actual Contract_Type,Matching
+123,Training Services,Training Services,TRUE
+373,Training Services,Training Services,TRUE
+605,Training Services,Training Services,TRUE
+689,Training Services,Engineering,FALSE
+633,Engineering,Operations & Maintenance,FALSE
+841,Training Services,Training Services,TRUE
+879,Training Services,Training Services,TRUE
+543,Operations & Maintenance,Training Services,FALSE
+462,Training Services,Training Services,TRUE
+382,Training Services,Training Services,TRUE
+35,Training Services,Training Services,TRUE
+397,Training Services,Training Services,TRUE
+61,Training Services,Training Services,TRUE
+810,Training Services,Training Services,TRUE
+788,Training Services,Training Services,TRUE
+199,Training Services,Training Services,TRUE
+684,Training Services,Training Services,TRUE
+142,Training Services,Training Services,TRUE
+233,Training Services,Training Services,TRUE
+546,Operations & Maintenance,Operations & Maintenance,TRUE
+81,Training Services,Training Services,TRUE
+638,Training Services,Training Services,TRUE
+744,Training Services,Training Services,TRUE
+572,Operations & Maintenance,Training Services,FALSE
+578,Training Services,Training Services,TRUE
+459,Training Services,Engineering,FALSE
+256,Training Services,Training Services,TRUE
+196,Training Services,Training Services,TRUE
+266,Training Services,Training Services,TRUE
+713,Operations & Maintenance,Training Services,FALSE
+39,Training Services,Training Services,TRUE
+701,Training Services,Training Services,TRUE
+179,Training Services,Training Services,TRUE
+710,Training Services,Training Services,TRUE
+276,Training Services,Training Services,TRUE
+799,Training Services,Training Services,TRUE
+715,Training Services,Engineering,FALSE
+673,Training Services,Training Services,TRUE
+49,Training Services,Training Services,TRUE
+37,Training Services,Training Services,TRUE
+584,Training Services,Training Services,TRUE
+270,Training Services,Engineering,FALSE
+908,Training Services,Training Services,TRUE
+485,Training Services,Training Services,TRUE
+74,Training Services,Training Services,TRUE
+38,Training Services,Training Services,TRUE
+224,Training Services,Training Services,TRUE
+335,Training Services,Training Services,TRUE
+478,Training Services,Training Services,TRUE
+525,Operations & Maintenance,Training Services,FALSE
+709,Training Services,Training Services,TRUE
+907,Training Services,Training Services,TRUE
+183,Training Services,Training Services,TRUE
+92,Training Services,Training Services,TRUE
+776,Training Services,Training Services,TRUE
+521,Training Services,Training Services,TRUE
+305,Engineering,Training Services,FALSE
+138,Training Services,Training Services,TRUE
+576,Training Services,Training Services,TRUE
+374,Training Services,Training Services,TRUE
+505,Engineering,Training Services,FALSE
+298,Training Services,Training Services,TRUE
+381,Engineering,Training Services,FALSE
+189,Training Services,Engineering & Construction,FALSE
+630,Training Services,Training Services,TRUE
+595,Training Services,Training Services,TRUE
+497,Training Services,Training Services,TRUE
+679,Training Services,Training Services,TRUE
+268,Engineering,Training Services,FALSE
+846,Training Services,Training Services,TRUE
+544,Operations & Maintenance,Training Services,FALSE
+18,Training Services,Training Services,TRUE
+513,Training Services,Training Services,TRUE
+890,Training Services,Training Services,TRUE
+421,Training Services,Training Services,TRUE
+243,Engineering,Training Services,FALSE
+655,Training Services,Training Services,TRUE
+916,Operations & Maintenance,Operations & Maintenance,TRUE
+515,Training Services,Training Services,TRUE
+786,Training Services,Training Services,TRUE
+219,Operations & Maintenance,Operations & Maintenance,TRUE
+97,Training Services,Training Services,TRUE
+894,Training Services,Operations & Maintenance,FALSE
+190,Training Services,Training Services,TRUE
+883,Training Services,Training Services,TRUE
+399,Engineering,Training Services,FALSE
+719,Training Services,Engineering,FALSE
+443,Training Services,Training Services,TRUE
+838,Engineering,Engineering,TRUE
+818,Training Services,Training Services,TRUE
+460,Training Services,Operations & Maintenance,FALSE
+211,Training Services,Training Services,TRUE
+153,Training Services,Training Services,TRUE
+780,Training Services,Training Services,TRUE
+753,Training Services,Training Services,TRUE
+280,Training Services,Training Services,TRUE
+809,Training Services,Operations & Maintenance,FALSE
+6,Training Services,0,FALSE
+344,Training Services,Engineering,FALSE
+549,Operations & Maintenance,Others,FALSE
+100,Training Services,Training Services,TRUE
+822,Training Services,Training Services,TRUE
+390,Training Services,Training Services,TRUE
+480,Training Services,Training Services,TRUE
+186,Engineering,Training Services,FALSE
+51,Training Services,Training Services,TRUE
+484,Training Services,Training Services,TRUE
+844,Training Services,Training Services,TRUE
+482,Training Services,Training Services,TRUE
+290,Engineering,Operations & Maintenance,FALSE
+370,Training Services,Operations & Maintenance,FALSE
+273,Training Services,Training Services,TRUE
+825,Engineering,Training Services,FALSE
+893,Training Services,Training Services,TRUE
+307,Training Services,Others,FALSE
+847,Training Services,Training Services,TRUE
+547,Operations & Maintenance,Training Services,FALSE
+365,Training Services,Training Services,TRUE
+21,Training Services,Training Services,TRUE
+77,Training Services,Training Services,TRUE
+739,Training Services,Training Services,TRUE
+119,Training Services,Training Services,TRUE
+681,Training Services,Training Services,TRUE
+234,Training Services,Engineering,FALSE
+550,Training Services,Training Services,TRUE
+553,Training Services,Engineering,FALSE
+807,Engineering,Training Services,FALSE
+575,Training Services,Training Services,TRUE
+698,Training Services,Training Services,TRUE
+915,Operations & Maintenance,Engineering,FALSE
+644,Training Services,Training Services,TRUE
+697,Training Services,Training Services,TRUE
+194,Training Services,Training Services,TRUE
+735,Engineering,Engineering,TRUE
+169,Training Services,Training Services,TRUE
+779,Training Services,Training Services,TRUE
+905,Training Services,Training Services,TRUE
+540,Training Services,Training Services,TRUE
+743,Training Services,Training Services,TRUE
+187,Engineering,Training Services,FALSE
+722,Training Services,Training Services,TRUE
+891,Training Services,Training Services,TRUE
+112,Training Services,Training Services,TRUE
+756,Training Services,Training Services,TRUE
+349,Training Services,Training Services,TRUE
+676,Training Services,Training Services,TRUE
+589,Training Services,Training Services,TRUE
+172,Training Services,Training Services,TRUE
+103,Training Services,Training Services,TRUE
+580,Training Services,Training Services,TRUE
+826,Engineering,Training Services,FALSE
+299,Training Services,Training Services,TRUE
+80,Training Services,Training Services,TRUE
+661,Training Services,Training Services,TRUE
+685,Training Services,Training Services,TRUE
+377,Training Services,Training Services,TRUE
+84,Training Services,Training Services,TRUE
+911,Training Services,Training Services,TRUE
+625,Operations & Maintenance,Engineering,FALSE
+518,Training Services,Training Services,TRUE
+262,Operations & Maintenance,Training Services,FALSE
+135,Training Services,Training Services,TRUE
+620,Training Services,Engineering,FALSE
+921,Engineering,Training Services,FALSE
+195,Training Services,Training Services,TRUE
+126,Training Services,Training Services,TRUE
+231,Training Services,Training Services,TRUE
+23,Training Services,Training Services,TRUE
+794,Training Services,Training Services,TRUE
+924,Operations & Maintenance,Operations & Maintenance,TRUE
+128,Training Services,Training Services,TRUE
+588,Training Services,Training Services,TRUE
+663,Training Services,Training Services,TRUE
+778,Training Services,Training Services,TRUE
+400,Engineering,Training Services,FALSE
+221,Training Services,Others,FALSE
+288,Operations & Maintenance,Training Services,FALSE
+105,Training Services,Training Services,TRUE
+385,Training Services,Engineering,FALSE
+162,Training Services,Training Services,TRUE
+121,Training Services,Training Services,TRUE
+449,Training Services,Training Services,TRUE
+152,Training Services,Training Services,TRUE
+140,Training Services,Training Services,TRUE
